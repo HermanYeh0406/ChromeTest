@@ -7,3 +7,9 @@ main()
         j++;
     }
 }
+/* add test1 function */
+void test1()
+{
+    int i;
+    i++;
+}
